@@ -58,7 +58,7 @@ Persistence baseline:
 The seven-day forecast is experimental and recursively uses the model's own rainfall predictions. Future temperature, humidity, pressure and wind speed are held at their last observed values. It is not a verified operational weather forecast.
 
 ## How to Run
-1. Open the `RainVision_AI.ipynb` notebook in Google Colab.
+1. Open the `AI_Based_Rainfall_Prediction_LSTM.ipynb` notebook in Google Colab.
 2. Upload or load the required dataset and model files.
 3. Execute the notebook cells in order.
 4. Launch the Gradio dashboard.
